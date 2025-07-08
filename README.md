@@ -1,6 +1,6 @@
 # Nandighosh Bus Landing Page
 
-**Live Link:** [https://your-live-link.com](https://your-live-link.com)
+**Live Link:** [Deployment Link](https://nandighosh-bus.netlify.app/)
 
 A modern, responsive landing page for Nandighosh Bus, built with React, TypeScript, and Tailwind CSS. Features dark mode, animated hero section, scroll-based animations, and a sticky navigation bar.
 
@@ -36,12 +36,6 @@ Start the development server:
 ```bash
 npm start
 ```
-The app will be available at [http://localhost:3000](http://localhost:3000).
-
-### Building for Production
-```bash
-npm run build
-```
 The production-ready files will be in the `build/` directory.
 
 ## Customization
@@ -55,5 +49,3 @@ The production-ready files will be in the `build/` directory.
 - [Tailwind CSS](https://tailwindcss.com/)
 - [tailwindcss-animate](https://github.com/joe-bell/tailwindcss-animate)
 
-## License
-This project is open source and available under the [MIT License](LICENSE). 
